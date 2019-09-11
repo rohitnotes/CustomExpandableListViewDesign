@@ -8,4 +8,4 @@ Currently the following functions are implemented:
 
 | first      | second      | third   | working     |
 |------------|-------------|-------------|-------------|
-| <img src="https://github.com/rohitnotes/CustomExpandableListViewDesign/tree/master/screen/1.png" width="250"> | <img src="https://github.com/rohitnotes/CustomExpandableListViewDesign/tree/master/screen/2.png" width="250"> | <img src="https://github.com/rohitnotes/CustomExpandableListViewDesign/tree/master/screen/3.png" width="250"> | <img src="https://github.com/rohitnotes/CustomExpandableListViewDesign/tree/master/screen/working.gif" width="250">|
+| <img src="https://github.com/rohitnotes/CustomExpandableListViewDesign/blob/master/screen/1.png" width="250"> | <img src="https://github.com/rohitnotes/CustomExpandableListViewDesign/blob/master/screen/2.png" width="250"> | <img src="https://github.com/rohitnotes/CustomExpandableListViewDesign/blob/master/screen/3.png" width="250"> | <img src="https://github.com/rohitnotes/CustomExpandableListViewDesign/blob/master/screen/working.gif" width="250">|
